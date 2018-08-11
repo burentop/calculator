@@ -1,6 +1,6 @@
 # _Resume_
 
-#### _A simple webpage as I learn HTML, April 1, 2018_
+#### _A simple calculator as I learn HTML, August 11, 2018_
 
 #### By _**Brent Perry**_
 
@@ -14,7 +14,7 @@ _This is a very simple website used to reinforce what I've learned in HTML, CSS 
 
 ## View the website
 
-_http://burentop.github.io/resume_
+_http://burentop.github.io/calculator_
 
 ## Known Bugs
 
@@ -22,6 +22,7 @@ _None_
 
 ## Technologies Used
 
+* _JavaScript_
 * _HTML_
 * _CSS_
 
